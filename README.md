@@ -22,3 +22,10 @@ Then it **elaborates** the entity defined by `$TB_ENTITY`
 Finally, the workflow **runs** the simulation. If successful then it will quietly exit with a `0` code.
 If any of the `assert` statements fail then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels will be reported, but not fail the workflow.
+
+![This waveform describes a few test cases run in the TB of the ripple adder](Waveform.png)
+
+![This entity box of a ripple-adder describes how the inputs and outputs of the adder will be places/coded](rippleAdder.pdf)
+
+## Documentation
+ For this assignment I utilized the class website and stack overflow for the u1 construction of the ripple adder component.
