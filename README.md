@@ -28,4 +28,5 @@ Assert statements of other severity levels will be reported, but not fail the wo
 ![This entity box of a ripple-adder describes how the inputs and outputs of the adder will be places/coded](rippleAdder.pdf)
 
 ## Documentation
- For this assignment I utilized the class website and stack overflow for the u1 construction of the ripple adder component.
+
+For this assignment I utilized the class website and stack overflow for the u1 construction of the ripple adder component.
